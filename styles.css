@@ -19,6 +19,7 @@ body {
     height: auto;;
     background-color: #1F1F1F;
     margin: 150px auto;
+    border-radius: 12px;
 }
 
 .image {
