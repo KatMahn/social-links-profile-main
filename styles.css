@@ -138,6 +138,23 @@ span {
     margin-bottom: 16px;
 }
 
+#links .github:hover,
+#links .frontendmentor:hover,
+#links .linkedin:hover,
+#links .twitter:hover,
+#links .instagram:hover {
+    cursor: pointer;
+}
+
+#links .github:active,
+#links .frontendmentor:active,
+#links .linkedin:active,
+#links .twitter:active,
+#links .instagram:active {
+    background-color: #00ff00;
+    color: #000
+}
+
 .attribution {
     font-size: 11px;
     text-align: center;
